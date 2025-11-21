@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./)
+![](./images/Screenshot%20(55).png)
 
 ### Links
 
@@ -63,12 +63,12 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+By the end of this project, I want to focus on JavaScript and Node.js .
 
 ### Useful resources
 
-- [Example resource 1](https://boiyee.github.io/Calculator/) - This helped me with my styling
-- [Example resource 2](https://boiyee.github.io/Bento-Grid/) - This also helped with writing some of the codes
+- [Example resource 1](https://boiyee.github.io/Calculator/) - This helped me with my styling my grid layout
+- [Example resource 2](https://boiyee.github.io/Bento-Grid/) - This also helped with writing some of the layouts
 
 ## Author
 
@@ -79,4 +79,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-It was a success, thanks to patience, frequent cross-checks and coffee.
+It was a success, thanks to patience, frequent cross-checks and coffee. Let's not forget Google Developers Group (GDG)[https://x.com/@gdgoc_funaab]
