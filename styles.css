@@ -78,26 +78,26 @@ p {
 
 .supervisor {
     border-top: 0.2em solid var(--cyan);
-    grid-column: 1;
-    grid-row: 2;
+    grid-column-start: 1;
+    grid-row-start: 2;
 }
 
 .team-builder {
     border-top: 0.2rem solid var(--red);
-    grid-column: 2;
-    grid-row: 1;
+    grid-column-start: 2;
+    grid-row-start: 1;
 }
 
 .karma {
     border-top: 0.2rem solid var(--orange);
-    grid-column: 2;
-    grid-row: 3;
+    grid-column-start: 2;
+    grid-row-start: 3;
 }
 
 .calculator {
     border-top: 0.2rem solid var(--blue);
-    grid-column: 3;
-    grid-row: 2;
+    grid-column-start: 3;
+    grid-row-start: 2;
 }
 
 .attribution {
